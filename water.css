@@ -1,0 +1,159 @@
+h1 {
+  text-align: center;
+  
+}
+
+h2 {
+  text-align: center;
+  font-size:20px;
+}
+body{
+	 background-image: url("w.jpg");
+	 
+}
+
+.mqs{
+	padding:50px;
+}
+
+.m{
+	float:right;
+	margin:50px;
+}
+
+.m1{
+	float:right;
+
+	font-size:20px;
+}
+
+.m2{
+	float:left;
+	margin:70px;
+	}
+
+.color1{
+	background-color:none;
+	color:white;
+}
+
+.text5 {
+    font-family: "sans-serif";
+    font-size: 30px;
+    font-weight: 40;
+    color: #F9423A;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+
+}
+
+.text6 {
+    font-family: "Brush Script MT";
+    font-size: 25px;
+    font-weight: 40;
+    color: #E03C31;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+}
+
+
+.left1{
+	float:left;
+}
+a.active {
+
+  color: white;
+    font-size: 17px;
+	
+}
+
+ul {
+	
+  list-style-type: none;
+   font-size: 19px;   
+}
+
+li {
+  float:left;
+  
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+opacity:0.8;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.bg-img {
+  background-image: url("slogan1.jpg");
+  min-height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.size1{
+	font-size:35px;
+}
+
+.a {
+
+   border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 7px;
+  background-color:white;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid black;
+    margin: 20px 0;
+}
