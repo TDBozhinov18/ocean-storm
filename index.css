@@ -28,7 +28,8 @@ body{
 
 .m2{
 	float:left;
-	margin:70px;
+  margin:70px;
+  font-size:20px;
   }
   
   .m3{
@@ -38,6 +39,7 @@ body{
   .m4{
     margin:100px;
     float:right;
+    font-size:19px;
   }
 
 
