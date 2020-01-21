@@ -28,7 +28,7 @@ body{
 
 .m2{
 	float:left;
-  margin:70px;
+  margin:90px;
   font-size:20px;
   }
   
@@ -161,10 +161,4 @@ li.dropdown {
   border-radius: 10px;
   padding: 7px;
   background-color:white;
-}
-
-hr {
-    border: 0;
-    border-top: 1px solid black;
-    margin: 20px 0;
 }
