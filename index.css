@@ -9,8 +9,62 @@ h2 {
 }
 body{
 	 background-image: url("w.jpg");
-	 
 }
+
+.bg-img {
+  background-image: url("slogan1.jpg");
+  min-height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+.pos {
+  border-right: solid 3px white;
+  white-space: nowrap;
+  overflow: hidden;    
+  font-size: 20px;
+  color:white;
+  margin: 280px;
+}
+  .post{
+  animation: animated-text 4s steps(40,end) 1s 1 normal both,
+             animated-cursor 600ms steps(40,end) infinite;
+           
+}
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 480px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-bottom-color: rgba(0,255,0,.75);}
+  to{border-bottom-color: transparent;}
+}
+
+
+
+.size1{
+	font-size:38px;
+}
+
+.a {
+
+   border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 7px;
+  background-color:white;
+}
+
 
 .mqs{
 	padding:50px;
@@ -37,7 +91,7 @@ body{
     float:left;
   }
   .m4{
-    margin:100px;
+    margin:120px;
     float:right;
     font-size:19px;
   }
@@ -47,6 +101,7 @@ body{
 	background-color:none;
 	color:white;
 }
+
 
 .text5 {
     font-family: "sans-serif";
@@ -97,7 +152,7 @@ a.active {
 ul {
 	
   list-style-type: none;
-   font-size: 19px;   
+   font-size: 21px;   
 }
 
 li {
@@ -141,24 +196,3 @@ li.dropdown {
 }
 
 
-.bg-img {
-  background-image: url("slogan1.jpg");
-  min-height: 400px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-
-.size1{
-	font-size:35px;
-}
-
-.a {
-
-   border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 7px;
-  background-color:white;
-}
