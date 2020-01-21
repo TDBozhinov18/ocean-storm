@@ -23,14 +23,23 @@ body{
 
 .m1{
 	float:right;
-
 	font-size:20px;
 }
 
 .m2{
 	float:left;
 	margin:70px;
-	}
+  }
+  
+  .m3{
+    margin:80px;
+    float:left;
+  }
+  .m4{
+    margin:100px;
+    float:right;
+  }
+
 
 .color1{
 	background-color:none;
