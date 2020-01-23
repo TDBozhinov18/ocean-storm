@@ -30,7 +30,7 @@ body{
   overflow: hidden;    
   font-size: 20px;
   color:white;
-  margin: 280px;
+  margin: 170px;
 }
   .post{
   animation: animated-text 4s steps(40,end) 1s 1 normal both,
