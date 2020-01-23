@@ -30,7 +30,7 @@ body{
   overflow: hidden;    
   font-size: 20px;
   color:white;
-  margin: 170px;
+  margin-top: 260px;;
 }
   .post{
   animation: animated-text 4s steps(40,end) 1s 1 normal both,
@@ -40,8 +40,8 @@ body{
 /* text animation */
 
 @keyframes animated-text{
-  from{width: 0;}
-  to{width: 480px;}
+  from{width: 0px;}
+  to{width: 650px;}
 }
 
 /* cursor animations */
@@ -54,7 +54,11 @@ body{
 
 
 .size1{
-	font-size:38px;
+	font-size:40px;
+}
+
+.size2{
+	font-size:25px;
 }
 
 .a {
@@ -91,7 +95,7 @@ body{
     float:left;
   }
   .m4{
-    margin:120px;
+    margin:100px;
     float:right;
     font-size:19px;
   }
@@ -150,9 +154,9 @@ a.active {
 }
 
 ul {
-	
   list-style-type: none;
-   font-size: 21px;   
+   font-size: 22px;   
+   padding: 0px;
 }
 
 li {
