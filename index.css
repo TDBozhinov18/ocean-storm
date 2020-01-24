@@ -33,16 +33,16 @@ li a, .dropbtn {  /*color and position of the dropdown nav bar button*/
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {  /*opacity on the dropdown button*/
+li a:hover, .dropdown:hover .dropbtn {  /*opacity of the dropdown button*/
 opacity:0.8;
 }
 
-.dropdown-content {  /*content on the dropdown menu*/
+.dropdown-content {  /*content of the dropdown menu*/
   display: none;
   position: absolute;
 }
 
-.dropdown-content a {
+.dropdown-content a {  /*content of the dropdown menu*/
   color: white;
   padding: 12px 16px;
   text-decoration: none;
@@ -50,13 +50,14 @@ opacity:0.8;
   text-align: left;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {  /*it makes the elementines a block*/
   display: block;
 }
 
 
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-.pos {
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');  /*import url*/
+
+.pos { /* style of border and text. Size  and position of the text.Partial style of the animation.*/
   border-right: solid 3px white;
   white-space: nowrap;
   overflow: hidden;    
@@ -64,31 +65,27 @@ opacity:0.8;
   color:white;
   margin-top: 260px;;
 }
-  .post{
+  .post{  /*animation time and partial style*/
   animation: animated-text 4s steps(40,end) 1s 1 normal both,
              animated-cursor 600ms steps(40,end) infinite;   
 }
 
-@keyframes animated-text{
+@keyframes animated-text{/*animation time and partial style*/
   from{width: 0px;}
   to{width: 650px;}
 }
 
-@keyframes animated-cursor{
-  from{border-bottom-color: rgba(0,255,0,.75);}
-  to{border-bottom-color: transparent;}
-}
 
 
-.size1{
+.size1{ /*size of  icon on nav bar*/
 	font-size:40px;
 }
 
-.size2{
+.size2{ /*size of menu"about us" on nav bar*/
 	font-size:25px;
 }
 
-.a {
+.a {/*style of border on the picture"Our purpuse"*/
 
    border: 1px solid #ddd;
   border-radius: 10px;
@@ -96,16 +93,16 @@ opacity:0.8;
   background-color:white;
 }
 
-.mqs{
+.mqs{ /*position of first video and picture*/
 	padding:50px;
 }
 
-.m{
+.m{ /*position of picture"Our purpuse"*/
 	float:right;
 	margin:50px;
 }
 
-.m1{
+.m1{ /*position of first text*/
 	float:right;
 	font-size:20px;
 }
