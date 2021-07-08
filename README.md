@@ -1,5 +1,5 @@
 <p align="center">
- #**Hello, we are Team Sweet Spot!**
+ #Hello, we are Team Sweet Spot!
 </p>
 
 
