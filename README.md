@@ -14,11 +14,9 @@ Download the game from [github](https://github.com/edkehayova18/sweet_spot_proje
 
 ---
 
-## <img src="https://media.discordapp.net/attachments/815253581149896790/815324537624723476/candy_bullet.png?width=455&height=455" width="40">Team members and roles
-- Emily Kehayova - Scrum Trainer
-- Reneta Topalska  - Developer Back-End
-- Radina velichkova - Developer Front-End
-- Todor Bozhinov - Quality engineer
+## <img src="https://media.discordapp.net/attachments/815253581149896790/815324537624723476/candy_bullet.png?width=455&height=455" width="40">Team members
+- Ivo dimov
+- Todor Bozhinov
 
 ---
 
