@@ -1,5 +1,3 @@
-<img src="![image](https://user-images.githubusercontent.com/56866260/124873930-c5853d80-dfcf-11eb-94af-89a5e22e2483.png)width=455&height=455" width="200">
-
 ## Hello, we are Team Sweet Spot!
 
 
