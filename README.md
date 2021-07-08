@@ -10,7 +10,7 @@ The program will be a way for them to connect and communicate easily. You can se
 
 ## <img src="https://media.discordapp.net/attachments/815253581149896790/815324537624723476/candy_bullet.png?width=455&height=455" width="40">  Installation 
 
-Download the game from [github](https://github.com/edkehayova18/sweet_spot_project) by pressing the green clone button. 
+Download the app from [github](https://github.com/IMDimov18/hostel_project) by pressing the green clone button. 
 
 ---
 
