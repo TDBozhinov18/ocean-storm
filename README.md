@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&tbnid=L8xfQakH9a8tJM&vet=12ahUKEwjGlNyY7NLxAhWhTeUKHUydCckQMygAegUIARDQAQ..i&docid=Ba_eiczVaD9-zM&w=771&h=480&q=images&ved=2ahUKEwjGlNyY7NLxAhWhTeUKHUydCckQMygAegUIARDQAQ" width="200">
+<img src=![image](https://user-images.githubusercontent.com/56866260/124873354-0af53b00-dfcf-11eb-9244-196516589e54.png)" width="200">
 
 ## Hello, we are Team Sweet Spot!
 
