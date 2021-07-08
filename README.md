@@ -1,5 +1,6 @@
 
- # <center>BigText</center>
+
+# <p align=center>BigText</p>
 
 
 
