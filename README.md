@@ -1,5 +1,5 @@
 <p align="center">
- <font size="20px"><b>Hello, we are Team Sweet Spot!</b></font>
+ <font size="+10"><b>Hello, we are Team Sweet Spot!</b></font>
 </p>
 
 
