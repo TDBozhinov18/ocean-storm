@@ -1,6 +1,6 @@
-<p align="center">
+
  # BigText
-</p>
+
 
 
 We are developing a app, which will help to students and teachers to create groups where they can work on different projects together. 
