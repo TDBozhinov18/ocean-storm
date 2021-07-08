@@ -1,4 +1,4 @@
-<img src="![image](https://user-images.githubusercontent.com/56866260/124873742-8820b000-dfcf-11eb-89c4-fd8617292492.png)" width="200">
+<img src="![image](https://user-images.githubusercontent.com/56866260/124873827-a5557e80-dfcf-11eb-90a9-e15b0302fa93.png)" width="200">
 
 ## Hello, we are Team Sweet Spot!
 
